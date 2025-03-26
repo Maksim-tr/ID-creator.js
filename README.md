@@ -20,5 +20,5 @@ generateID({ allowCapitalLetters: false }) // disallow capital letters in the ID
 ```
 ### Minimal length
 ```JavaScript
-generateID({ min: 10 }) // if the length property is 
+generateID({ min: 10 }) // if the length property is less than this one, the ID will be 10-characters
 ```
