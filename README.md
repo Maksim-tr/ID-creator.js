@@ -5,7 +5,7 @@
 
 ### Generate an ID:
 ```JavaScript
-generateID() // to generate 20-characters ID (uses a-z, A-Z, 0-9, '-' and '_' symbols) 
+generateID() // to generate a 20-characters ID (uses a-z, A-Z, 0-9, '-' and '_' symbols) 
 ```
 ### Generate an ID with your custom length or symbols:
 ```JavaScript
