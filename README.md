@@ -16,7 +16,9 @@ generateID({ allowedSymbols: "ABCDE12345" }) // allowing only these symbols. But
 ```JavaScript
 generateID({ allowSpecChars: false }) // disallow special symbols in the ID
 generateID({ allowNumbers: false }) // disallow numbers in the ID
-generateID({ allowCapitalizeLetters: false }) // disallow capitalize letters in the ID
-all
+generateID({ allowCapitalLetters: false }) // disallow capital letters in the ID
 ```
-### mini
+### Minimal length
+```JavaScript
+generateID({ min: 10 }) // if the length property is 
+```
