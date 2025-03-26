@@ -1,6 +1,6 @@
 ### This library is available via CDN:
 ```HTML
-<script src="https://cdn.jsdelivr.net/gh/Maksim-tr/ID-creator.js@main/idcreator.min.js"></script>
+<script src="https://cdn.jsdelivr.net/gh/Maksim-tr/ID-creator.js@main/idgenerator.min.js"></script>
 ```
 
 ### Generate an ID:
